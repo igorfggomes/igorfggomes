@@ -33,5 +33,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)](https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)
 [![Outlook Badge](https://img.shields.io/badge/-igor.fggomes@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igor.fggomes@hotmail.com)](mailto:igor.fggomes@hotmail.com)
 
-- Obrigado pela visita! 💜
-- Te espero nas minhas redes sociais, afinal networking nunca é demais! 🚀👋
+- Obrigado pela visita! 👋
+- Te espero nas minhas redes sociais, afinal networking nunca é demais! 🚀
