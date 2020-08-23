@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/hR7BK4TzpaQaY8e4wh/giphy.gif">
+<img align="right" width="245" height="245" src="https://media.giphy.com/media/hR7BK4TzpaQaY8e4wh/giphy.gif">
 
 ## 💬 Igor Franklin Gonçalves Gomes
 
