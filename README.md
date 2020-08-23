@@ -12,9 +12,9 @@
 
 - Estudante do 4° semestre de Engenharia de Software | Uni-FACEF :robot:
 
-- Possuo conhecimento na área de informática e desenvolvimento de software. :man_technologist:
+- Possuo conhecimento na área de informática e desenvolvimento de software :man_technologist:
 
-- Apaixonado por tecnologia & códigos! :heart:
+- Apaixonado por tecnologia & códigos :heart:
 
 ----
 
@@ -34,4 +34,4 @@
 [![Outlook Badge](https://img.shields.io/badge/-igor.fggomes@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igor.fggomes@hotmail.com)](mailto:igor.fggomes@hotmail.com)
 
 - Obrigado pela visita! 👋
-- Te espero nas minhas redes sociais, afinal networking nunca é demais! 🚀
+- Caso queira conversar, te espero de portas abertas nas minhas redes sociais, afinal networking nunca é demais! 🚀
