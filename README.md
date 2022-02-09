@@ -10,7 +10,7 @@
 
 ## 💬 Igor Franklin Gonçalves Gomes
 
-- Estudante do 5° semestre de Engenharia de Software | Uni-FACEF :robot:
+- Estudante do 7° semestre de Engenharia de Software | Uni-FACEF :robot:
 
 - Possuo conhecimento na área de informática e desenvolvimento de software :man_technologist:
 
