@@ -1,37 +1,41 @@
-#  Olá, seja bem vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## 💬 About me
 
 <div align="center">
 
-[![Readme Portuguese](https://img.shields.io/badge/Readme-PT--BR-success?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README.md)
-
+[![Readme English](https://img.shields.io/badge/Readme-EN--US-success?style=for-the-badge)](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/README.md)
+  
 </div>
 
-<img align="right" width="245" height="245" src="https://media.giphy.com/media/hR7BK4TzpaQaY8e4wh/giphy.gif">
+<p align="left">
+ 👋 Hey there! I’m Igor Franklin Gonçalves Gomes, 21 years old, currently living in Brazil.
+</p>
 
-## 💬 Igor Franklin Gonçalves Gomes
+<p align="left"> 
+ 📚 I am a undergraduate student in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
+</p>
 
-- Estudante do 7° semestre de Engenharia de Software | Uni-FACEF :robot:
-
-- Possuo conhecimento na área de informática e desenvolvimento de software :man_technologist:
-
-- Apaixonado por tecnologia & códigos :heart:
-
-----
+<p align="left"> 
+ ❤️ Passionate about technology and code.
+</p>
 
 ## 💙 Hobbies
 
-- Livros 📖
-- Jogos 🎮
-- Muay Thai :boxing_glove:	
+- Books 📖
+- Games 🎮
+- Gym 💪
 
-----
+## 💼 Technologies & Tools
 
-## 📓 Contatos
+- Front-end Development with HTML, CSS, Javascript, React, React Hooks, React-Router-Dom, Styled-Components and Axios.
+- Back-end Development with Node, MVC Architecture, Express and Sequelize.
+- Mobile Development with React Native, React Navigation, Styled-Components and Axios.
+
+## 📓 Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-igorfggomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorfggomes/)](https://www.linkedin.com/in/igorfggomes/)
 [![Github Badge](https://img.shields.io/badge/-igorfggomes-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/igorfggomes)](https://github.com/igorfggomes)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)](https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)
 [![Outlook Badge](https://img.shields.io/badge/-igor.fggomes@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igor.fggomes@hotmail.com)](mailto:igor.fggomes@hotmail.com)
 
-- Obrigado pela visita! 👋
-- Caso queira conversar, te espero de portas abertas nas minhas redes sociais, afinal networking nunca é demais! 🚀
+- Thanks for visiting! 👋
+- If you want to talk, I'll be waiting for you with open doors in my social networks, after all, networking is never too much! 🚀
