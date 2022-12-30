@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
- 📚 I am a undergraduate student in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
+ 📚 I'm a graduate in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
 </p>
 
 <p align="left"> 
