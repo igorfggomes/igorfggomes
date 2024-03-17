@@ -7,7 +7,7 @@
 </div>
 
 <p align="left">
- 👋 Hey there! I’m Igor Franklin Gonçalves Gomes, 22 years old, currently living in Brazil.
+ 👋 Hey there! I’m Igor Franklin Gonçalves Gomes, currently living in Brazil.
 </p>
 
 <p align="left"> 
