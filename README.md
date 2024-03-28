@@ -1,22 +1,24 @@
 ## 💬 About me
 
 <div align="center">
-
-[![Readme English](https://img.shields.io/badge/Readme-EN--US-success?style=for-the-badge)](https://github.com/igorfggomes/igorfggomes/blob/master/README.md)
+  
+  [![Readme English](https://img.shields.io/badge/Readme-EN--US-success?style=for-the-badge)](https://github.com/igorfggomes/igorfggomes/blob/master/README.md)
   
 </div>
 
-<p align="left">
- 👋 Hey there! I’m Igor Franklin Gonçalves Gomes, currently living in Brazil.
-</p>
-
-<p align="left"> 
- 📚 I'm a graduate in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
-</p>
-
-<p align="left"> 
- ❤️ Passionate about technology and code.
-</p>
+<div align="center" style="display:flex;flex-wrap:wrap;" >
+  <p align="left">
+   👋 Hey there! I’m Igor Franklin Gonçalves Gomes, currently living in Brazil.
+  </p>
+  
+  <p align="left"> 
+   📚 I'm a graduate in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
+  </p>
+  
+  <p align="left"> 
+   ❤️ Passionate about technology and code.
+  </p>
+</div>
 
 ## 💙 Hobbies
 
@@ -29,6 +31,13 @@
 - Front-end Development with HTML, CSS, Javascript, React, React Hooks, React-Router-Dom, Styled-Components and Axios.
 - Back-end Development with Node, MVC Architecture, Express and Sequelize.
 - Mobile Development with React Native, React Navigation, Styled-Components and Axios.
+
+## 📊 Statistics
+
+<div align="center" style="display:flex;flex-wrap:wrap;">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=igorfggomes&hide=issues,contribs&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="stats" title="stats"/>
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfggomes&layout=compact&langs_count=6&hide=ruby,makefile,starlark,c%2B%2B,Objective-C%2B%2B" alt="languages" title="languages"/>
+</div>
 
 ## 📓 Contact me
 
