@@ -35,8 +35,8 @@
 ## 📊 Statistics
 
 <div style="display:flex;flex-wrap:wrap;">
-  <img align="center" height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=igorfggomes&hide=issues,contribs&include_all_commits=true&show_icons=true&locale=en&count_private=true" alt="stats" title="stats"/>
-  <img align="center" height="180rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfggomes&layout=compact&langs_count=6&hide=ruby,makefile,starlark,c%2B%2B,Objective-C%2B%2B" alt="languages" title="languages"/>
+  <img align="center" height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=igorfggomes&hide=issues,contribs&include_all_commits=true&show_icons=true&locale=en&count_private=true" alt="stats" title="stats"/>
+  <img align="center" height="180rem" width="294rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfggomes&layout=compact&langs_count=6&hide=ruby,makefile,starlark,c%2B%2B,Objective-C%2B%2B" alt="languages" title="languages"/>
 </div>
 
 ## 📓 Contact me
