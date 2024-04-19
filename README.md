@@ -23,7 +23,7 @@
 ## 💼 Technologies & Tools
 
 - Front-end Development with HTML, CSS, JavaScript, TypeScript, React, React Hooks, React-Router-Dom, Styled-Components and Axios.
-- Back-end Development with Node.js, MVC Architecture, Express, and Sequelize.
+- Back-end Development with Node.js, MVC Architecture, Express and Sequelize.
 - Mobile Development with React Native, React Navigation, Styled-Components and Axios.
 
 ## 📊 Statistics
