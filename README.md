@@ -6,18 +6,12 @@
   
 </div>
 
-<div align="center" style="display:flex;flex-wrap:wrap;" >
-  <p align="left">
-   👋 Hey there! I’m Igor Franklin Gonçalves Gomes, currently living in Brazil.
-  </p>
+<div align="left">
+  <p>👋 Hello there! I'm Igor Franklin Gonçalves Gomes, currently based in Brazil.</p>
   
-  <p align="left"> 
-   📚 I'm a graduate in Software Engineering at Uni-Facef (Centro Universitário Municipal de Franca) in Franca, São Paulo.
-  </p>
+  <p>📚 I'm a Software Engineering graduate from Uni-FACEF (Municipal University Center of Franca) in Franca, São Paulo.</p>
   
-  <p align="left"> 
-   ❤️ Passionate about technology and code.
-  </p>
+  <p>❤️ Passionate about technology and code.</p>
 </div>
 
 ## 💙 Hobbies
@@ -28,15 +22,15 @@
 
 ## 💼 Technologies & Tools
 
-- Front-end Development with HTML, CSS, Javascript, React, React Hooks, React-Router-Dom, Styled-Components and Axios.
-- Back-end Development with Node, MVC Architecture, Express and Sequelize.
+- Front-end Development with HTML, CSS, JavaScript, TypeScript, React, React Hooks, React-Router-Dom, Styled-Components and Axios.
+- Back-end Development with Node.js, MVC Architecture, Express, and Sequelize.
 - Mobile Development with React Native, React Navigation, Styled-Components and Axios.
 
 ## 📊 Statistics
 
-<div style="display:flex;flex-wrap:wrap;">
-  <img align="center" height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=igorfggomes&hide=issues,contribs&include_all_commits=true&show_icons=true&count_private=true" alt="stats" title="stats"/>
-  <img align="center" height="180rem" width="294rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfggomes&layout=compact&langs_count=6&hide=ruby,makefile,starlark,c%2B%2B,Objective-C%2B%2B" alt="languages" title="languages"/>
+<div align="center">
+  <img height="180rem" width="500rem" src="https://github-readme-stats.vercel.app/api?username=igorfggomes&hide=issues,contribs&include_all_commits=true&show_icons=true&count_private=true" alt="stats" title="stats"/>
+  <img height="180rem" width="294rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfggomes&layout=compact&langs_count=6&hide=ruby,makefile,starlark,c%2B%2B,Objective-C%2B%2B" alt="languages" title="languages"/>
 </div>
 
 ## 📓 Contact me
@@ -46,5 +40,5 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)](https://api.whatsapp.com/send?phone=5535991923916&text=Oi!)
 [![Outlook Badge](https://img.shields.io/badge/-igor.fggomes@hotmail.com-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:igor.fggomes@hotmail.com)](mailto:igor.fggomes@hotmail.com)
 
-- Thanks for visiting! 👋
-- If you want to talk, I'll be waiting for you with open doors in my social networks, after all, networking is never too much! 🚀
+- Thanks for stopping by! 👋
+- If you'd like to chat, I'm waiting for you with open doors on my social networks, after all, networking is never too much! 🚀
