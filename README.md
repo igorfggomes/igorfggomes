@@ -6,26 +6,15 @@ Hello! I'm **Igor Franklin Gonçalves Gomes**, a **Full Stack Developer** from B
 
 🚀 Passionate about **technology, problem-solving, and continuous learning**.
 
-## 🔧 Technical Skills
+## 🔧 Technical Skills  
 
-### **Front-end Development**
-- **React.js** (Hooks, Context API, React Router)
-- **TypeScript, JavaScript, HTML, CSS**
-- **Styled-Components, Tailwind CSS**
-- **API Integration (REST & GraphQL)**
+💻 **Front-end:** React.js (Hooks, Context API, React Router), TypeScript, JavaScript, HTML, CSS, Styled-Components, Tailwind CSS, API Integration (REST & GraphQL).  
 
-### **Back-end Development**
-- **Node.js** (Express, MVC Architecture)
-- **Database Management** with **MySQL (Sequelize, SQL)**
-- **Authentication & Security** (JWT, OAuth)
+🖥 **Back-end:** Node.js (Express, MVC), MySQL (Sequelize, SQL), Authentication & Security (JWT, OAuth).  
 
-### **Mobile Development**
-- **React Native** (React Navigation, Styled-Components, Expo)
+📱 **Mobile:** React Native (React Navigation, Styled-Components, Expo).  
 
-### **DevOps & Tools**
-- **Git, GitHub, Bitbucket**
-- **CI/CD (GitHub Actions, Azure DevOps)**
-- **Agile Methodologies (Scrum, Kanban)**
+⚙ **DevOps & Tools:** Git, GitHub, Bitbucket, CI/CD (GitHub Actions, Azure DevOps), Agile (Scrum, Kanban). 
 
 ## 📊 GitHub Stats
 
